@@ -8,3 +8,6 @@ An easy to use, free, modern leaderboard for roblox. Fully made by daimy and cus
 - **🔑 Ranks**: Add ranks to each player (config).
 - **🖼️ Thumbnails**: Shows players thumbnails.
 ---
+
+
+Discontinued
